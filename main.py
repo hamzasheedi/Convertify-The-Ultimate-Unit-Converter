@@ -3,6 +3,9 @@ from length_conversion import convert_length
 from units import length_units, weight_units
 from weight_conversion import convert_weight
 
+st.set_page_config(layout="wide")
+
+
 # ✅ Streamlit UI
 st.title("🌍 Unit Converter")
 
