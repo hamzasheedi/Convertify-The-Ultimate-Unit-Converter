@@ -1,6 +1,3 @@
-# Convertify-The-Ultimate-Unit-Converter
-Convertify is a smart unit converter for length, weight, and temperature and etc . Built with Streamlit, it provides real-time conversions, formula display, and an intuitive UI for accurate and efficient unit conversion. 🚀
-
 # 🚀 Convertify – The Ultimate Unit Converter  
 
 Convertify is a **powerful and user-friendly unit converter** that supports **length, weight, and temperature** conversions with real-time updates and an intuitive UI.  
@@ -22,6 +19,7 @@ Convertify is a **powerful and user-friendly unit converter** that supports **le
 ### 1️⃣ Clone the Repo  
 
 git clone https://github.com/hamzasheedi/Convertify.git
+
 cd Convertify
 
 ### 2️⃣ Install Dependencies
